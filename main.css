@@ -11,7 +11,8 @@ body {
 }
 
 .container {
-    justify-content: center;
-    width: 400px;
+    justify-content: space-evenly;
+    width: 250px;
     margin: 2em auto 2em auto;
 }
+
