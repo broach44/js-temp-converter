@@ -1,3 +1,8 @@
 body {
-    background-color: oldlace;
+    background-color: #efe4d5;
+}
+
+.navbar {
+    background-color: #d6ae7e;
+    justify-content: center;
 }
