@@ -6,3 +6,12 @@ body {
     background-color: #d6ae7e;
     justify-content: center;
 }
+.form-control {
+    background-color: #f5f1ee;
+}
+
+.container {
+    justify-content: center;
+    width: 400px;
+    margin: 2em auto 2em auto;
+}
