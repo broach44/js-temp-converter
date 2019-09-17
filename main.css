@@ -16,3 +16,12 @@ body {
     margin: 2em auto 2em auto;
 }
 
+#converter {
+    background-color: #d6ae7e;
+}
+
+#outputArea {
+    background-color: #f5f1ee;
+    height: 2.5em;
+    border-radius: 5px;
+}
