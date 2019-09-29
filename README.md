@@ -14,8 +14,19 @@ The app provides users a tool to convert temperature from one unit of measure to
 ## Screenshots
 
 #### Celsius to Fahrenheit:
+![Celsius to Fahrenheit - Blue](https://raw.githubusercontent.com/broach44/js-temp-converter/master/screenshots/celsius-to-fahren1.PNG)
+
+![Celsius to Fahrenheit - Red](https://raw.githubusercontent.com/broach44/js-temp-converter/master/screenshots/celsius-to-fahren2.PNG)
+
+![Celsius to Fahrenheit - Green](https://raw.githubusercontent.com/broach44/js-temp-converter/master/screenshots/celsius-to-fahren3.PNG)
 
 #### Fahrenheit to Celsius:
+
+![Fahrenheit to Celsius - Blue](https://raw.githubusercontent.com/broach44/js-temp-converter/master/screenshots/fahren-to-celsius1.PNG)
+
+![Fahrenheit to Celsius - Red](https://raw.githubusercontent.com/broach44/js-temp-converter/master/screenshots/fahren-to-celsius2.PNG)
+
+![Fahrenheit to Celsius - Green](https://raw.githubusercontent.com/broach44/js-temp-converter/master/screenshots/fahren-to-celsius3.PNG)
 
 ## How to Run
 
